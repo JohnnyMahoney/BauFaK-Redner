@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BauFakCounter"
         mc:Ignorable="d"
-        Title="BauFaK Rednerliste" Height="432" Width="768">
+        Title="BauFaK Rednerliste" Height="432" Width="768" Background="#FF3F5956">
     <Grid x:Name="CounterGrid">
         <Grid.RowDefinitions>
             <RowDefinition Height="2*"/>
@@ -15,14 +15,14 @@
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <Image x:Name="LogoBauFak" Grid.Row="1" Source="Ressourcen/LogoAachen.jpg" Margin="10"/>
-        <Label x:Name="AktuellerRednerText" Content="Aktueller Redner:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial" Margin="10,10,0,0"/>
+        <Image x:Name="LogoBauFak" Grid.Row="1" Source="Ressourcen/Logo_BAUFAK92_gelb_kompakt.png" Margin="10"/>
+        <Label x:Name="AktuellerRednerText" Content="Aktueller Redner:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial" Margin="10,10,0,0" Foreground="#FFFFF266"/>
         <Label x:Name="CurrentNumberView" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="216" FontFamily="Arial Black" Margin="10"/>
-        <ListView x:Name="UpcomingNumberView" Grid.Column="1" FontFamily="Arial Black" FontWeight="Regular" FontSize="72" Margin="10" MinWidth="360" MinHeight="247" HorizontalContentAlignment="Right" VerticalContentAlignment="Stretch" IsSynchronizedWithCurrentItem="False" MouseDoubleClick="UpcomingNumberView_MouseDoubleClick" Cursor="Cross"/>
-        <TextBox x:Name="UpcomingNumberInput" Grid.Column="1" Grid.Row="1" VerticalAlignment="Top" FontFamily="Arial Black" FontSize="22" MaxLength="3" MaxLines="1" PreviewTextInput="UpcomingNumberInput_PreviewTextInput" KeyDown="UpcomingNumberInput_KeyDown" VerticalContentAlignment="Center" Margin="10,10,10,0" MinWidth="359" MinHeight="27"/>
+        <ListView x:Name="UpcomingNumberView" Grid.Column="1" FontFamily="Arial Black" FontWeight="Regular" FontSize="72" Margin="10" MinWidth="360" MinHeight="247" HorizontalContentAlignment="Right" VerticalContentAlignment="Stretch" IsSynchronizedWithCurrentItem="False" MouseDoubleClick="UpcomingNumberView_MouseDoubleClick" Cursor="Cross" Background="#FF3F5956" BorderBrush="#FFFFF266"/>
+        <TextBox x:Name="UpcomingNumberInput" Grid.Column="1" Grid.Row="1" VerticalAlignment="Top" FontFamily="Arial Black" FontSize="22" MaxLength="3" MaxLines="1" PreviewTextInput="UpcomingNumberInput_PreviewTextInput" KeyDown="UpcomingNumberInput_KeyDown" VerticalContentAlignment="Center" Margin="10,10,10,0" MinWidth="359" MinHeight="27" Background="#FF3F5956" BorderBrush="#FFFFF266"/>
         <Button x:Name="ButtonNextNumber" Content="Nächster Redner" HorizontalAlignment="Left" Grid.Column="1" Margin="10,47,0,0" Grid.Row="1" VerticalAlignment="Top" Click="ButtonNextNumber_Click" FontSize="16" Height="27" Width="130"/>
         <Button x:Name="ButtonSaveList" Content="Rednerliste speichern" HorizontalAlignment="Left" Grid.Column="1" Margin="150,47,0,0" Grid.Row="1" VerticalAlignment="Top" Click="ButtonSaveList_Click" FontSize="16" Width="160" Height="27"/>
-        <Label x:Name="NächsteRednerText" Content="Nächste Redner:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial" Margin="10,10,0,0" Grid.Column="1"/>
+        <Label x:Name="NächsteRednerText" Content="Nächste Redner:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial" Margin="10,10,0,0" Grid.Column="1" Foreground="#FFFFF266"/>
 
     </Grid>
 </Window>

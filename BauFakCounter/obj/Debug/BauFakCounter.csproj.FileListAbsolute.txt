@@ -17,4 +17,4 @@ D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.e
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.application
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.exe
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.pdb
-D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.csprojResolveAssemblyReference.cache
+D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.csprojAssemblyReference.cache

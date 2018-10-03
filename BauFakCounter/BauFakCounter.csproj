@@ -56,7 +56,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Ressourcen\Logo.ico</ApplicationIcon>
+    <ApplicationIcon>Ressourcen\Logo_BAUFAK92_blau_kompakt.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>F40C5EFE2D3638666BF4E17581F711523C6A0CF5</ManifestCertificateThumbprint>
@@ -160,6 +160,11 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Ressourcen\Logo_BAUFAK92_blau_kompakt.ico" />
+    <Resource Include="Ressourcen\Logo_BAUFAK92_blau_kompakt.png" />
+    <Resource Include="Ressourcen\Logo_BAUFAK92_gelb_kompakt.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

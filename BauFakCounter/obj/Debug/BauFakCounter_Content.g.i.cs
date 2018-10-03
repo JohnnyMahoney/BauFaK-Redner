@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ressourcen/logo.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ressourcen/logo_baufak92_blau_kompakt.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ressourcen/logo_baufak92_blau_kompakt.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ressourcen/logo_baufak92_gelb_kompakt.png")]
 
 
