@@ -3,6 +3,7 @@ D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\bin\Debug\BauFakCounter.e
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\bin\Debug\BauFakCounter.application
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\bin\Debug\BauFakCounter.exe
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\bin\Debug\BauFakCounter.pdb
+D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.csprojAssemblyReference.cache
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\MainWindow.g.cs
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\App.g.cs
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter_MarkupCompile.cache
@@ -10,11 +11,10 @@ D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter_M
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\MainWindow.baml
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.g.resources
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.Properties.Resources.resources
-D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.csproj.GenerateResource.Cache
+D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.csproj.GenerateResource.cache
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.csproj.CoreCompileInputs.cache
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.TrustInfo.xml
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.exe.manifest
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.application
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.exe
 D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.pdb
-D:\Git\Repos\BauFakCounter\BauFakCounter\BauFakCounter\obj\Debug\BauFakCounter.csprojAssemblyReference.cache

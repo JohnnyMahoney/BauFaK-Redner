@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BauFakCounter.exe" size="2454464">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BauFakCounter.exe" size="2454976">
       <assemblyIdentity name="BauFakCounter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>zlKTyAofQ4AE0J/Sq0I7EOLR7RCIcucfdEHk8hHbIDk=</dsig:DigestValue>
+        <dsig:DigestValue>d1dbeW4qxFqhVCX7BfqYUqmTbOXUVlYMdwxjvF+9yHs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
