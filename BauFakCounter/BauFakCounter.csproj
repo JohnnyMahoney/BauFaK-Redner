@@ -56,7 +56,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Ressourcen\Logo.ico</ApplicationIcon>
+    <ApplicationIcon>images\Logo.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>F40C5EFE2D3638666BF4E17581F711523C6A0CF5</ManifestCertificateThumbprint>
@@ -141,13 +141,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Ressourcen\BauFaK-Logo.png" />
+    <Resource Include="images\BauFaK-Logo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Ressourcen\LogoAachen.jpg" />
+    <Resource Include="images\LogoAachen.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Ressourcen\Logo.ico" />
+    <Resource Include="images\Logo.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
