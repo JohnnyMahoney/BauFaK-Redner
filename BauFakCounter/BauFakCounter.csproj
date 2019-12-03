@@ -56,7 +56,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Ressourcen\Logo_BAUFAK92_blau_kompakt.ico</ApplicationIcon>
+    <ApplicationIcon>images\Logo_BAUFAK92_blau_kompakt.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>F40C5EFE2D3638666BF4E17581F711523C6A0CF5</ManifestCertificateThumbprint>
@@ -65,14 +65,14 @@
     <ManifestKeyFile>BauFakCounter_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <GenerateManifests>true</GenerateManifests>
+    <GenerateManifests>false</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
     <TargetZone>LocalIntranet</TargetZone>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
     <NoWin32Manifest>true</NoWin32Manifest>
@@ -141,15 +141,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Ressourcen\BauFaK-Logo.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Ressourcen\LogoAachen.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Ressourcen\Logo.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.6.1 %28x86 und x64%29</ProductName>
@@ -162,9 +153,12 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Ressourcen\Logo_BAUFAK92_blau_kompakt.ico" />
-    <Resource Include="Ressourcen\Logo_BAUFAK92_blau_kompakt.png" />
-    <Resource Include="Ressourcen\Logo_BAUFAK92_gelb_kompakt.png" />
+    <Resource Include="images\BauFaK-Logo.png" />
+    <Resource Include="images\Logo.ico" />
+    <Resource Include="images\LogoAachen.jpg" />
+    <Resource Include="images\Logo_BAUFAK92_blau_kompakt.ico" />
+    <Resource Include="images\Logo_BAUFAK92_blau_kompakt.png" />
+    <Resource Include="images\Logo_BAUFAK92_gelb_kompakt.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

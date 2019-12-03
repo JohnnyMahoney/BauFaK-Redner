@@ -15,7 +15,7 @@
             <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
-        <Image x:Name="LogoBauFak" Grid.Row="1" Source="Ressourcen/Logo_BAUFAK92_gelb_kompakt.png" Margin="10"/>
+        <Image x:Name="LogoBauFak" Grid.Row="1" Source="images/Logo_BAUFAK92_gelb_kompakt.png" Margin="10"/>
         <Label x:Name="AktuellerRednerText" Content="Aktueller Redner:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="36" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial" Margin="10,10,0,0" Foreground="#FFFFF266"/>
         <Label x:Name="CurrentNumberView" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="216" FontFamily="Arial Black" Margin="10"/>
         <ListView x:Name="UpcomingNumberView" Grid.Column="1" FontFamily="Arial Black" FontWeight="Regular" FontSize="72" Margin="10" MinWidth="360" MinHeight="247" HorizontalContentAlignment="Right" VerticalContentAlignment="Stretch" IsSynchronizedWithCurrentItem="False" MouseDoubleClick="UpcomingNumberView_MouseDoubleClick" Cursor="Cross" Background="#FF3F5956" BorderBrush="#FFFFF266"/>
